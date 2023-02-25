@@ -1,0 +1,24 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "To-do lists offer a way to increase productivity, stopping you from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management as well as workflow.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IotchulindraRai/ToDo_Task-project.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Chulindra Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IotchulindraRai/ToDo_Task-project/issues"
+  },
+  "homepage": "https://github.com/IotchulindraRai/ToDo_Task-project#readme"
+}
